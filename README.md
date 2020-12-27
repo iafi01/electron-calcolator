@@ -1,3 +1,3 @@
 # electron-calcolator
 
-<h1>Ciao</h1>
+<img src="calc.jpg" />
