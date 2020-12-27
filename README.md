@@ -1,3 +1,3 @@
 # electron-calculator
 
-<img src="calc.jpg" />
+<img src="calc.JPG" />
