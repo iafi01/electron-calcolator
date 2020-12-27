@@ -1,3 +1,3 @@
-# electron-calcolator
+# electron-calculator
 
 <img src="calc.jpg" />
